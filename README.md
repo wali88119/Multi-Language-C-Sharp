@@ -1,2 +1,4 @@
-# Multi-Language-Project-in-C#
-Multi Language Project in C#
+# Multi Language in C# window form
+We use English, Pashto and Dari Language in this Project
+
+
